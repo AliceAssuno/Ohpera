@@ -38,21 +38,3 @@ Agradecemos a todos que contribuíram para este projeto!
 
 ---
 
-**Observações:**
-
-* **Adapte o README:** Você pode personalizar ainda mais este README adicionando detalhes sobre a sua base de dados (dados.js), como ela foi construída e de onde vieram os dados.
-* **Imagens e exemplos:** Considere adicionar capturas de tela ou GIFs para ilustrar o funcionamento da aplicação.
-* **Licença:** Especifique a licença que você escolheu para o seu projeto (por exemplo, MIT, GPL).
-* **Contribuidores:** Liste os principais contribuidores do projeto.
-
-**Com este README, você terá uma ótima base para compartilhar seu projeto no GitHub e atrair novos colaboradores.**
-
-**Dicas extras:**
-
-* **Use a hashtag #ohpera** nas redes sociais para divulgar seu projeto.
-* **Crie um site simples para apresentar a Ohpera.**
-* **Traduza o README para outros idiomas.**
-
-**Lembre-se:** Um README bem escrito é fundamental para que outros desenvolvedores entendam o seu projeto e se interessem em contribuir. 
-
-**Que tal começar a compartilhar a sua paixão pela ópera com o mundo?**
